@@ -1,0 +1,5 @@
+frase = 'Curso em Video Python'
+dividido = frase.split()
+print(dividido[3][3])
+
+
